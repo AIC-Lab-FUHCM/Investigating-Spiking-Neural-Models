@@ -4,6 +4,8 @@ Nguyen Minh Tri, Huynh Vuong Khang, Huynh Cong Viet Ngu
 FPT University, Ho Chi Minh Campus, Vietnam  
 minhtringuyen130205@gmail.com, khanghvse184160@fpt.edu.vn, nguhcv@fe.edu.vn
 
+Original implementation is at: [github.com/mintii13](https://github.com/mintii13?tab=repositories)
+
 ---
 
 ## Requirements
